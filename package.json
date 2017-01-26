@@ -1,0 +1,29 @@
+{
+  "name": "deb-dev",
+  "version": "1.0.0",
+  "description": "crud-express-mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesalmi/deb-dev.git"
+  },
+  "keywords": [
+    "mongo",
+    "dev",
+    "express",
+    "node",
+    "persist"
+  ],
+  "author": "Ziad MESALMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesalmi/deb-dev/issues"
+  },
+  "homepage": "https://github.com/mesalmi/deb-dev#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
